@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "2b0cfc71b802b6c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "899bdc0466b63452",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "crypto/PhaseStream 1.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf100e95f6fce560",
+    "type": "split",
+    "children": [
+      {
+        "id": "7851ab4bdaeee24f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a9173e64f8afa54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2c215b60132f4b21",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "202ed0ef5f7d7137",
+    "type": "split",
+    "children": [
+      {
+        "id": "96c8bb39b82fea4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bee1ce7200df0334",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "crypto/PhaseStream 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "899bdc0466b63452",
+  "lastOpenFiles": [
+    "crypto/PhaseStream 1.md",
+    "forensics/Key Mission.md",
+    "misc/Input as a Service.md",
+    "reversing/Authenticator.md",
+    "reversing/Passphrase.md",
+    "web/Bug Report.md",
+    "web/Caas.md",
+    "web/DaaS.md",
+    "web/MiniSTRyplace.md"
+  ]
+}
